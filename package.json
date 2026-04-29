@@ -1,0 +1,12 @@
+{
+  "name": "lenisa-ana-proxy",
+  "version": "1.0.0",
+  "description": "CORS proxy for LENISA Ana WhatsApp bot simulator",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
